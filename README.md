@@ -1,1 +1,1 @@
-# java-ohjelmointi-1ja2
+Ohjelmoinnin perusteet sekä ohjelmoinnin jatkokurssin tehtäviä

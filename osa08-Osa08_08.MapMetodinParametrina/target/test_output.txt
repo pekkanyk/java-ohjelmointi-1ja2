@@ -1,0 +1,1 @@
+[{"className":"MapMetodinParametrinaTest","methodName":"onMetodiPalautaKoko","pointNames":["08-08"],"status":"PASSED"},{"className":"MapMetodinParametrinaTest","methodName":"metodiPalauttaaAnnetunMapinKoon","pointNames":["08-08"],"status":"PASSED"}]
